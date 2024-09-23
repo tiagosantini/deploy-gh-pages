@@ -90,7 +90,8 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://github.com/tiagosantini/deploy-gh-pages",
+            "baseHref": "https://tiagosantini.github.io/deploy-gh-pages/",
+            "repo": "https://github.com/tiagosantini/deploy-gh-pages.git",
             "name": "Tiago Santini",
             "email": "tiagosantiniathayde@outlook.com"
           }
